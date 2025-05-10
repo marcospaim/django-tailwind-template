@@ -1,5 +1,5 @@
 # django-tailwind-template
-This is a simple starter template for you to quickly set up a Django project with Tailwind.
+A simple starter template for quickly setting up a Django project with Tailwind CSS.
 
 ## Features
 - Python 3.12 and Django 5.2
